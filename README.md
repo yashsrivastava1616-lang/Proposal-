@@ -1,2 +1,0 @@
-# Proposal-
-Interactive proposal style 
